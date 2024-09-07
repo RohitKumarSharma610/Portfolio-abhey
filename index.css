@@ -65,37 +65,39 @@ span{
 }
 
 .home {
+
     width: 100%;
     background: rgb(241, 241, 241);
     display: flex;
     align-items: center;
-    gap: 7em;
+    gap: 4em;
     padding: 30px 12%;
     padding-top: 150px;
 }
 
-.home-content {
+/* .home-contant {
     max-width: 900px;
+    height: 100%;
 }
 
-.home-content h3 {
+.home-contant h3 {
     font-size: 45px;
 }
 
-.home-content h1 {
+.home-contant h1 {
     font-size: 100px;
 }
 
-.home-content p {
+.home-contant p {
     font-size: 40px;
     margin: 25px 0 30px;
-}
+} */
 
 .btn-box {
     width: 100%;
     display: flex;
     gap: 2em;
-    margin-top: 20px;
+    margin-top: 30px;
    
 }
 
@@ -124,7 +126,7 @@ span{
     color: white;
     border: 2px solid black;
     border-radius: 8px;
-    font-size: 18px;
+    font-size: 20px;
     letter-spacing: 1px;
     font-weight: 600;
     transition: 0.3s ease;
